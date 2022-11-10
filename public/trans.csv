@@ -1,0 +1,414 @@
+"order date","customer name",city,state,service,total_price,workername,customer_rate
+2017-04-19,,Noida,0,lawn,10,z,3
+2017-04-20,,Noida,0,snow,10,z,3
+2017-04-25,shubhuu,Noida,0,lawn,10,y,5
+2017-04-25,shubhuu,Noida,0,lawn,10,y,5
+2017-04-25,,Noida,0,lawn,10,y,0
+2017-04-25,,Noida,0,snow,10,y,4
+2017-04-25,,NewDelhi,0,snow,10,y,0
+2017-04-25,,NewDelhi,0,lawn,10,y,0
+2017-04-25,,Rohini,0,lawn,10,y,0
+2017-04-25,,Noida,0,lawn,10,y,0
+2017-04-25,,NewDelhi,0,snow,10,y,0
+2017-04-28,,NewDelhi,0,snow,10,y,0
+2017-04-28,shubhuuu,NewDelhi,0,snow,10,a,0
+2017-01-03,,NewDelhi,0,snow,10,ramesh,2
+2017-01-10,,NewDelhi,0,snow,10,ramesh,0
+2017-05-05,,NewDelhi,0,snow,10,y,0
+2017-05-05,,NewDelhi,0,snow,10,y,0
+2017-05-05,,NewDelhi,0,snow,10,y,0
+2017-01-04,,NewDelhi,0,snow,100,n,0
+2017-05-08,,NewDelhi,0,snow,100,m,0
+2017-05-08,,NewDelhi,0,snow,10,l,0
+2017-01-24,,Rohini,0,lawn,10,k,0
+2017-05-08,,NewDelhi,0,snow,10,y,0
+2017-05-08,,NewDelhi,0,lawn,10,j,3
+2017-05-08,,"Ashok road",0,lawn,10,y,0
+2017-05-08,,Noida,0,snow,10,i,0
+2017-05-08,,NewDelhi,0,snow,10,o,0
+2017-05-08,,NewDelhi,0,snow,10,h,0
+2017-05-09,,noida,0,lawn,10,g,0
+2017-05-09,,noida,0,lawn,10,e,0
+2017-05-09,,noida,0,snow,10,y,0
+2017-05-10,,noida,0,lawn,10,f,0
+2017-05-10,,noida,0,snow,10,laxmi,0
+2017-05-10,Ankit,Noida,UP,lawn,10,p,0
+2017-05-12,Ankit,Noida,UP,snow,10,y,0
+2017-05-12,Ankit,Noida,UP,lawn,10,y,0
+2017-05-15,Ankit,Noida,UP,lawn,10,y,0
+2017-05-15,"Sahil Bhardwaj","New Delhi",Delhi,lawn,10,y,0
+2017-05-15,"Sahil Bhardwaj",Noida,UP,snow,10,y,0
+2017-05-15,"Sahil Bhardwaj",Noida,UP,snow,10,y,0
+2017-05-15,"Sahil Bhardwaj",Noida,UP,lawn,10,y,0
+2017-05-15,"Sahil Bhardwaj",Noida,UP,snow,10,y,0
+2017-05-15,"Sahil Bhardwaj",Noida,UP,snow,10,y,0
+2017-05-15,"Sahil Bhardwaj","New Delhi",Delhi,snow,10,Ashok,0
+2017-05-15,"Sahil Bhardwaj",Noida,UP,snow,10,y,0
+2017-05-15,"Sahil Bhardwaj","New Delhi",Delhi,snow,10,y,0
+2017-05-15,"Sahil Bhardwaj",Noida,UP,snow,10,Ashok,0
+2017-05-15,"Sahil Bhardwaj",Bahadurgarh,Haryana,lawn,10,z,0
+2017-05-15,"Sahil Bhardwaj","New Delhi",Delhi,snow,10,y,0
+2017-05-15,"Sahil Bhardwaj","New Delhi",Delhi,snow,10,y,0
+2017-05-15,"Sahil Bhardwaj","New Delhi",Delhi,snow,10,y,0
+2017-05-15,"Sahil Bhardwaj","New Delhi",Delhi,snow,10,y,0
+2017-05-15,"Sahil Bhardwaj",Noida,UP,snow,10,y,0
+2017-05-15,"Sahil Bhardwaj",Noida,UP,snow,10,y,0
+2017-05-15,"Sahil Bhardwaj",Noida,UP,snow,10,y,0
+2017-05-15,"Sahil Bhardwaj",Noida,UP,snow,10,y,0
+2017-05-15,"Sahil Bhardwaj","New Delhi",Delhi,snow,10,y,0
+2017-05-15,"Sahil Bhardwaj","New Delhi",Delhi,snow,10,y,0
+2017-05-15,"Sahil Bhardwaj","New Delhi",Delhi,snow,10,y,0
+2017-05-15,"Sahil Bhardwaj","New Delhi",Delhi,snow,10,y,0
+2017-05-15,"Sahil Bhardwaj","New Delhi",Delhi,snow,10,y,0
+2017-05-15,"Sahil Bhardwaj","New Delhi",Delhi,snow,10,y,0
+2017-05-15,"Sahil Bhardwaj",Noida,UP,lawn,10,y,0
+2017-05-15,"Sahil Bhardwaj",Noida,UP,lawn,10,y,0
+2017-05-15,"Sahil Bhardwaj",Noida,UP,lawn,10,y,0
+2017-05-15,"Sahil Bhardwaj",Noida,UP,lawn,10,y,0
+2017-05-15,"Sahil Bhardwaj",Noida,UP,snow,10,b,0
+2017-05-16,Ankit,Dwarka,"New Delhi",lawn,10,y,0
+2017-05-16,Ankit,Dwarka,"New Delhi",snow,10,c,0
+2017-05-16,"Sahil Bhardwaj","New Delhi",Delhi,snow,10,y,0
+2017-05-16,"Sahil Bhardwaj",Noida,UP,snow,10,y,0
+2017-05-16,"Sahil Bhardwaj","New Delhi",Delhi,snow,10,y,0
+2017-05-16,"Sahil Bhardwaj",Noida,UP,lawn,10,y,0
+2017-05-16,"Sahil Bhardwaj",Noida,UP,lawn,10,y,0
+2017-05-17,"Sahil Bhardwaj","New Delhi",Delhi,snow,10,y,0
+2017-05-17,"Sahil Bhardwaj","New Delhi",Delhi,lawn,10,y,0
+2017-05-17,"Sahil Bhardwaj","New Delhi",Delhi,lawn,10,y,0
+2017-05-17,"Sahil Bhardwaj",Noida,UP,snow,10,y,0
+2017-05-17,"Sahil Bhardwaj",Noida,UP,lawn,10,y,0
+2017-05-17,"Sahil Bhardwaj","New Delhi",Delhi,snow,10,y,0
+2017-05-17,"Sahil Bhardwaj","New Delhi",Delhi,snow,10,y,0
+2017-05-17,"Sahil Bhardwaj",Noida,UP,lawn,10,y,0
+2017-05-17,"Sahil Bhardwaj",Noida,UP,lawn,10,y,0
+2017-05-17,"Sahil Bhardwaj","New Delhi",Delhi,snow,10,y,0
+2017-05-17,"Sahil Bhardwaj",Noida,UP,lawn,10,y,0
+2017-05-17,"Sahil Bhardwaj","New Delhi",Delhi,snow,10,y,0
+2017-05-17,"Sahil Bhardwaj","New Delhi",Delhi,snow,10,y,0
+2017-05-17,"Sahil Bhardwaj","New Delhi",Delhi,snow,10,y,0
+2017-05-17,"Sahil Bhardwaj","New Delhi",Delhi,snow,10,y,0
+2017-05-17,"Sahil Bhardwaj","New Delhi",Delhi,snow,10,y,0
+2017-05-17,"Sahil Bhardwaj","New Delhi",Delhi,snow,10,y,0
+2017-05-17,"Sahil Bhardwaj",Noida,UP,lawn,10,y,0
+2017-05-17,shubhuu,Noida,0,snow,10,y,0
+2017-05-17,shubhuu,Noida,0,snow,10,y,0
+2017-05-17,shubhuu,Noida,0,snow,10,y,0
+2017-05-17,"Sahil Bhardwaj","New Delhi",Delhi,snow,10,d,0
+2017-05-17,"Sahil Bhardwaj","New Delhi",Delhi,lawn,10,y,0
+2017-05-17,"Sahil Bhardwaj",Noida,UP,snow,10,y,0
+2017-05-17,Ankit,Dwarka,"New Delhi",lawn,10,y,0
+2017-05-17,shubhuu,Noida,0,snow,10,y,0
+2017-05-17,shubhuu,Noida,0,snow,10,y,0
+2017-05-18,"Tushar Goyal",Noida,"Uttar Prade",snow,10,y,0
+2017-05-18,"Tushar Goyal",Noida,"Uttar Prade",snow,10,y,0
+2017-05-18,"Tushar Goyal",Noida,"Uttar Prade",lawn,10,y,0
+2017-05-18,"Tushar Goyal",Gzb,S,snow,10,y,0
+2017-05-19,"Tushar Goyal",Noida,"Uttar Prade",lawn,10,y,0
+2017-05-19,Ankit,Noida,UP,lawn,10,y,0
+2017-05-22,"Tushar Goyal",Noida,"Uttar Prade",lawn,10,y,0
+2017-05-22,"Tushar Goyal",Gzb,S,snow,10,y,0
+2017-05-22,"Sahil Bhardwaj","New Delhi",Delhi,snow,10,y,0
+2017-05-22,"Tushar Goyal",Gzb,S,lawn,10,y,0
+2017-05-22,"Tushar Goyal",Noida,"Uttar Prade",lawn,10,y,0
+2017-05-22,"Sahil Bhardwaj","New Delhi",Delhi,snow,10,y,0
+2017-05-22,"Sahil Bhardwaj",Noida,UP,snow,10,y,0
+2017-05-22,"Sahil Bhardwaj",Noida,UP,snow,10,y,0
+2017-05-22,"Sahil Bhardwaj",Noida,UP,snow,10,y,0
+2017-05-22,"Tushar Goyal",Noida,"Uttar Prade",lawn,10,y,0
+2017-05-22,"Sahil Bhardwaj",Noida,UP,snow,10,y,0
+2017-05-22,"Sahil Bhardwaj",Noida,UP,snow,10,d,0
+2017-05-22,"Tushar Goyal",Noida,"Uttar Prade",snow,10,z,0
+2017-05-22,"Tushar Goyal",Noida,"Uttar Prade",lawn,10,z,0
+2017-05-23,"Sahil Bhardwaj",Noida,UP,snow,10,z,0
+2017-05-23,"Sahil Bhardwaj",Noida,UP,lawn,10,z,0
+2017-05-23,"Sahil Bhardwaj",Noida,UP,snow,10,z,0
+2017-05-23,"Tushar Goyal",Gzb,S,snow,10,z,0
+2017-05-23,"Tushar Goyal",Gzb,S,lawn,10,z,0
+2017-05-23,"Sahil Bhardwaj",Noida,UP,snow,10,z,0
+2017-05-25,"Tushar Goyal",Noida,"Uttar Prade",snow,10,z,0
+2017-05-26,"Sahil Bhardwaj",Noida,UP,snow,10,z,0
+2017-05-26,"Tushar Goyal",Gzb,S,snow,10,z,0
+2017-05-26,"Tushar Goyal",Noida,"Uttar Prade",lawn,10,z,0
+2017-05-26,Ankit,Noida,UP,snow,20,z,0
+2017-05-26,Ankit,Noida,UP,lawn,30,z,0
+2017-05-26,Ankit,Noida,UP,snow,20,z,0
+2017-05-26,Ankit,Noida,UP,lawn,30,z,0
+2017-05-29,Ankit,Noida,UP,snow,20,z,0
+2017-05-29,Ankit,Noida,UP,lawn,30,z,0
+2017-05-29,Ankit,Noida,UP,snow,20,z,0
+2017-05-29,Ankit,Noida,UP,lawn,30,z,0
+2017-05-30,"Tushar Goyal",Gzb,S,snow,20,z,0
+2017-05-30,"Tushar Goyal",Noida,"Uttar Prade",lawn,30,z,0
+2017-05-30,"Tushar Goyal",Gzb,S,lawn,30,z,0
+2017-05-30,"Sahil Bhardwaj",Noida,UP,lawn,10,z,0
+2017-05-30,"Sahil Bhardwaj",Noida,UP,snow,10,z,0
+2017-05-30,"Tushar Goyal",Noida,"Uttar Prade",snow,20,z,0
+2017-05-30,"Sahil Bhardwaj",Noida,UP,snow,10,z,0
+2017-05-30,Ankit,Noida,UP,lawn,30,z,0
+2017-05-30,"Sahil Bhardwaj",Noida,UP,snow,10,z,0
+2017-05-30,"Sahil Bhardwaj",Noida,UP,lawn,10,z,0
+2017-05-30,Ankit,Noida,UP,snow,20,z,0
+2017-05-30,"Sahil Bhardwaj",Noida,UP,snow,10,z,0
+2017-05-30,"Sahil Bhardwaj",Noida,UP,lawn,10,z,0
+2017-05-30,"Sahil Bhardwaj",Noida,UP,snow,10,z,0
+2017-05-30,"Sahil Bhardwaj",Noida,UP,snow,10,z,0
+2017-05-30,"Sahil Bhardwaj",Noida,UP,snow,10,z,0
+2017-05-30,Ankit,Noida,UP,snow,20,z,0
+2017-05-30,Ankit,Noida,UP,lawn,30,z,0
+2017-05-30,Ankit,Noida,UP,snow,20,z,0
+2017-05-31,Ankit,Noida,UP,snow,10,z,0
+2017-05-31,Ankit,Dwarka,"New Delhi",lawn,10,z,0
+2017-05-31,Ankit,Noida,UP,snow,20,z,0
+2017-05-31,Ankit,Noida,UP,lawn,10,z,0
+2017-05-31,Ankit,Noida,UP,snow,10,z,0
+2017-05-31,Ankit,Dwarka,"New Delhi",lawn,10,z,0
+2017-05-31,Ankit,Noida,UP,snow,10,z,0
+2017-05-31,Ankit,Noida,UP,lawn,10,z,0
+2017-05-31,Ankit,Noida,UP,snow,10,z,0
+2017-05-31,Ankit,Noida,UP,lawn,30,z,0
+2017-05-31,Ankit,Noida,UP,lawn,30,z,0
+2017-05-31,Ankit,Noida,UP,snow,20,z,0
+2017-05-31,Ankit,Noida,UP,snow,20,z,0
+2017-05-31,Ankit,Noida,UP,lawn,30,z,0
+2017-05-31,Ankit,Noida,UP,lawn,30,z,0
+2017-05-31,"Sahil Bhardwaj","New Delhi",Delhi,snow,10,z,0
+2017-06-01,"Sahil Bhardwaj","New Delhi",Delhi,lawn,10,z,0
+2017-06-01,Ankit,Noida,UP,snow,20,z,0
+2017-06-01,Ankit,Noida,UP,snow,20,z,0
+2017-06-01,Ankit,Noida,UP,lawn,30,z,0
+2017-06-01,"Sahil Bhardwaj","New Delhi",Delhi,snow,10,z,0
+2017-06-01,"Sahil Bhardwaj","New Delhi",Delhi,snow,10,z,0
+2017-06-01,"Sahil Bhardwaj",Noida,UP,lawn,10,z,0
+2017-06-01,"Sahil Bhardwaj",Noida,UP,lawn,10,z,0
+2017-06-01,"Sahil Bhardwaj",Noida,UP,snow,10,z,0
+2017-06-02,"Sahil Bhardwaj","New Delhi",Delhi,snow,10,z,0
+2017-06-02,"Sahil Bhardwaj","New Delhi",Delhi,lawn,10,z,0
+2017-06-02,"Sahil Bhardwaj",Noida,UP,lawn,10,z,0
+2017-06-02,"Sahil Bhardwaj","New Delhi",Delhi,lawn,10,z,0
+2017-06-02,"Sahil Bhardwaj",Noida,UP,snow,10,z,0
+2017-06-02,"Sahil Bhardwaj","New Delhi",Delhi,lawn,10,z,0
+2017-06-02,"Sahil Bhardwaj",Noida,UP,snow,10,z,0
+2017-06-02,"Sahil Bhardwaj",Noida,UP,lawn,10,z,0
+2017-06-02,"Sahil Bhardwaj",Noida,UP,snow,10,z,0
+2017-06-03,Ankit,Noida,UP,snow,20,z,0
+2017-06-05,"Sahil Bhardwaj",Noida,UP,lawn,30,z,0
+2017-06-05,"Sahil Bhardwaj",Noida,UP,lawn,30,z,0
+2017-06-05,"Sahil Bhardwaj",Noida,UP,snow,20,z,0
+2017-06-05,"Sahil Bhardwaj","New Delhi",Delhi,lawn,30,z,0
+2017-06-05,Ankit,Dwarka,"New Delhi",snow,20,z,0
+2017-06-05,Ankit,Noida,UP,snow,20,z,0
+2017-06-05,"Sahil Bhardwaj",Noida,UP,snow,20,z,0
+2017-06-05,"Sahil Bhardwaj",Noida,UP,lawn,30,z,0
+2017-06-05,"Sahil Bhardwaj","New Delhi",Delhi,snow,20,z,0
+2017-06-06,"Sahil Bhardwaj",Noida,UP,snow,20,z,0
+2017-06-06,"Sahil Bhardwaj",Noida,UP,snow,20,z,0
+2017-06-06,"Sahil Bhardwaj",Noida,UP,lawn,30,z,0
+2017-06-06,"Sahil Bhardwaj","New Delhi",Delhi,lawn,30,z,0
+2017-06-06,"Sahil Bhardwaj",Noida,UP,lawn,30,z,0
+2017-06-06,"Sahil Bhardwaj","New Delhi",Delhi,lawn,30,z,0
+2017-06-06,"Sahil Bhardwaj","New Delhi",Delhi,lawn,30,z,0
+2017-06-06,"Sahil Bhardwaj",Noida,UP,snow,20,z,0
+2017-06-06,"Sahil Bhardwaj","New Delhi",Delhi,lawn,30,z,0
+2017-06-06,"Sahil Bhardwaj","New Delhi",Delhi,lawn,30,z,0
+2017-06-06,"Sahil Bhardwaj","New Delhi",Delhi,snow,20,z,0
+2017-06-06,"Sahil Bhardwaj","New Delhi",Delhi,snow,20,z,0
+2017-06-06,"Sahil Bhardwaj","New Delhi",Delhi,snow,20,z,0
+2017-06-06,"Sahil Bhardwaj",Noida,UP,lawn,30,z,0
+2017-06-06,"Sahil Bhardwaj","New Delhi",Delhi,lawn,30,z,0
+2017-06-06,"Sahil Bhardwaj","New Delhi",Delhi,lawn,30,z,0
+2017-06-06,"Sahil Bhardwaj","New Delhi",Delhi,snow,20,z,0
+2017-06-06,"Sahil Bhardwaj",Noida,UP,lawn,30,z,0
+2017-06-06,"Sahil Bhardwaj","New Delhi",Delhi,snow,20,z,0
+2017-06-06,"Sahil Bhardwaj",Noida,UP,snow,20,z,0
+2017-06-06,"Sahil Bhardwaj","New Delhi",Delhi,lawn,30,z,0
+2017-06-06,"Sahil Bhardwaj",Noida,UP,lawn,30,z,0
+2017-06-06,"Sahil Bhardwaj",Noida,UP,lawn,30,z,0
+2017-06-07,"Sahil Bhardwaj","New Delhi",Delhi,snow,20,z,0
+2017-06-07,"Sahil Bhardwaj",Noida,UP,lawn,30,z,0
+2017-06-07,"Sahil Bhardwaj",Noida,UP,snow,20,z,0
+2017-06-07,"Sahil Bhardwaj",Noida,UP,lawn,30,z,0
+2017-06-07,"Sahil Bhardwaj","New Delhi",Delhi,snow,20,z,0
+2017-06-07,"Sahil Bhardwaj",Noida,UP,lawn,30,z,0
+2017-06-07,"Sahil Bhardwaj",Noida,UP,snow,20,z,0
+2017-06-07,"Sahil Bhardwaj",Noida,UP,lawn,30,z,0
+2017-06-07,"Sahil Bhardwaj",Noida,UP,lawn,30,z,0
+2017-06-07,"Sahil Bhardwaj","New Delhi",Delhi,snow,20,z,0
+2017-06-07,"Sahil Bhardwaj",Noida,UP,lawn,30,z,0
+2017-06-07,"Sahil Bhardwaj",Noida,UP,lawn,30,z,0
+2017-06-07,"Sahil Bhardwaj",Noida,UP,lawn,30,z,0
+2017-06-07,"Sahil Bhardwaj",Noida,UP,snow,20,z,0
+2017-06-08,"Sahil Bhardwaj","New Delhi",Delhi,lawn,30,z,0
+2017-06-08,Tushar,"New Delhi",Delhi,snow,20,z,0
+2017-06-08,Tushar,"New Delhi",Delhi,lawn,30,z,0
+2017-06-08,Tushar,"New Delhi",Delhi,snow,20,z,0
+2017-06-08,Tushar,"New Delhi",Delhi,lawn,30,z,0
+2017-06-09,"Sahil Bhardwaj",Noida,UP,lawn,30,z,0
+2017-06-09,"Sahil Bhardwaj",Noida,UP,lawn,30,z,0
+2017-06-09,"Sahil Bhardwaj",Noida,UP,lawn,30,z,0
+2017-06-09,"Sahil Bhardwaj",Noida,UP,lawn,30,z,0
+2017-06-12,"Sahil Bhardwaj","New Delhi",Delhi,lawn,30,z,0
+2017-06-12,"Sahil Bhardwaj",Noida,UP,snow,20,z,0
+2017-06-12,"Sahil Bhardwaj",Noida,UP,snow,20,z,0
+2017-06-12,"Sahil Bhardwaj",Noida,UP,snow,20,z,0
+2017-06-12,"Sahil Bhardwaj",Noida,UP,snow,20,z,0
+2017-06-12,"Sahil Bhardwaj",Noida,UP,snow,20,z,0
+2017-06-12,"Sahil Bhardwaj",Noida,UP,lawn,30,z,0
+2017-06-12,"Sahil Bhardwaj","New Delhi",Delhi,lawn,30,z,0
+2017-06-12,"Sahil Bhardwaj",Noida,UP,lawn,30,z,0
+2017-06-12,"Sahil Bhardwaj",Noida,UP,snow,20,z,0
+2017-06-12,"Sahil Bhardwaj",Noida,UP,snow,20,z,0
+2017-06-12,"Sahil Bhardwaj",Noida,UP,snow,20,z,0
+2017-06-12,"Sahil Bhardwaj",Noida,UP,snow,20,z,0
+2017-06-12,"Sahil Bhardwaj",Noida,UP,lawn,30,z,0
+2017-06-12,"Sahil Bhardwaj",Noida,UP,lawn,30,z,0
+2017-06-12,"Sahil Bhardwaj",Noida,UP,snow,20,z,0
+2017-06-12,"Sahil Bhardwaj","New Delhi",Delhi,snow,20,z,0
+2017-06-12,"Sahil Bhardwaj",Noida,UP,snow,20,z,0
+2017-06-12,"Sahil Bhardwaj","New Delhi",Delhi,lawn,30,z,0
+2017-06-12,"Sahil Bhardwaj",Noida,UP,snow,20,z,0
+2017-06-12,"Sahil Bhardwaj",Noida,UP,snow,20,z,0
+2017-06-12,"Sahil Bhardwaj",Noida,UP,snow,20,z,0
+2017-06-12,"Sahil Bhardwaj","New Delhi",Delhi,lawn,30,z,0
+2017-06-12,"Sahil Bhardwaj","New Delhi",Delhi,lawn,30,z,0
+2017-06-12,"Sahil Bhardwaj",Noida,UP,snow,20,z,0
+2017-06-12,"Sahil Bhardwaj",Noida,UP,snow,20,z,0
+2017-06-12,"Sahil Bhardwaj",Noida,UP,snow,20,z,0
+2017-06-13,"Sahil Bhardwaj",Noida,UP,lawn,30,z,0
+2017-06-13,"Sahil Bhardwaj","New Delhi",Delhi,snow,20,z,0
+2017-06-13,"Sahil Bhardwaj",Noida,UP,lawn,30,z,0
+2017-06-13,"Sahil Bhardwaj",Noida,UP,lawn,30,z,0
+2017-06-13,"Sahil Bhardwaj","New Delhi",Delhi,snow,20,z,0
+2017-06-13,"Sahil Bhardwaj","New Delhi",Delhi,lawn,30,z,0
+2017-06-13,"Sahil Bhardwaj","New Delhi",Delhi,lawn,30,z,0
+2017-06-13,"Sahil Bhardwaj","New Delhi",Delhi,snow,20,z,0
+2017-06-13,"Sahil Bhardwaj",Noida,UP,lawn,30,z,0
+2017-06-13,Ankit,Noida,UP,snow,20,z,0
+2017-06-13,"Sahil Bhardwaj","New Delhi",Delhi,snow,20,z,0
+2017-06-13,"Sahil Bhardwaj",Noida,UP,lawn,30,z,0
+2017-06-13,"Sahil Bhardwaj","New Delhi",Delhi,snow,20,z,0
+2017-06-13,"Sahil Bhardwaj",Noida,UP,snow,20,z,0
+2017-06-13,"Sahil Bhardwaj","New Delhi",Delhi,snow,20,z,0
+2017-06-13,"Sahil Bhardwaj",Noida,UP,snow,20,z,0
+2017-06-13,"Sahil Bhardwaj",Noida,UP,snow,20,z,0
+2017-06-13,"Sahil Bhardwaj","New Delhi",Delhi,lawn,30,z,0
+2017-06-13,"Sahil Bhardwaj","New Delhi",Delhi,lawn,30,z,0
+2017-06-13,"Sahil Bhardwaj",Noida,UP,snow,20,z,0
+2017-06-14,"Sahil Bhardwaj",Noida,UP,lawn,30,z,0
+2017-06-14,"Sahil Bhardwaj","New Delhi",Delhi,snow,20,z,0
+2017-06-14,"Sahil Bhardwaj","New Delhi",Delhi,lawn,30,z,0
+2017-06-14,"Sahil Bhardwaj","New Delhi",Delhi,snow,20,z,0
+2017-06-14,"Sahil Bhardwaj","New Delhi",Delhi,snow,20,z,0
+2017-06-14,"Sahil Bhardwaj","New Delhi",Delhi,snow,20,z,0
+2017-06-14,"Sahil Bhardwaj","New Delhi",Delhi,snow,20,z,0
+2017-06-14,"Sahil Bhardwaj","New Delhi",Delhi,snow,20,z,0
+2017-06-14,"Sahil Bhardwaj",Noida,UP,lawn,30,z,0
+2017-06-14,"Sahil Bhardwaj","New Delhi",Delhi,lawn,30,z,0
+2017-06-14,"Sahil Bhardwaj","New Delhi",Delhi,snow,20,z,0
+2017-06-14,"Sahil Bhardwaj","New Delhi",Delhi,snow,20,z,0
+2017-06-14,Ankit,Noida,UP,snow,20,z,0
+2017-06-14,Ankit,Noida,UP,lawn,30,z,0
+2017-06-14,Ankit,Noida,UP,snow,20,z,0
+2017-06-14,Ankit,Noida,UP,lawn,30,z,0
+2017-06-14,Ankit,Noida,UP,snow,20,z,0
+2017-06-14,Ankit,Noida,UP,lawn,30,z,0
+2017-06-14,Ankit,Noida,UP,lawn,30,z,0
+2017-06-14,Ankit,Noida,UP,snow,20,z,0
+2017-06-14,Ankit,Noida,UP,snow,20,z,0
+2017-06-14,Ankit,Dwarka,"New Delhi",snow,20,z,0
+2017-06-14,Ankit,Noida,UP,lawn,30,z,0
+2017-06-14,Ankit,Noida,UP,snow,20,z,0
+2017-06-14,Ankit,Noida,UP,lawn,60,z,0
+2017-06-14,Ankit,Noida,UP,lawn,30,z,0
+2017-06-14,Ankit,Noida,UP,lawn,30,z,0
+2017-06-14,Ankit,Dwarka,"New Delhi",snow,20,z,0
+2017-06-14,Ankit,Noida,UP,snow,20,z,0
+2017-06-14,Ankit,Dwarka,"New Delhi",snow,20,z,0
+2017-06-14,Ankit,Noida,UP,lawn,30,z,0
+2017-06-14,Ankit,Noida,UP,snow,20,z,0
+2017-06-14,Ankit,Noida,UP,snow,20,z,0
+2017-06-14,Ankit,Noida,UP,snow,20,z,0
+2017-06-14,Ankit,Noida,UP,snow,20,z,0
+2017-06-14,Ankit,Noida,UP,snow,20,z,0
+2017-06-14,"Joe Root","New Delhi","New Delhi",snow,90,z,0
+2017-06-14,"Joe Root","New Delhi","New Delhi",lawn,90,z,0
+2017-06-14,"Joe Root","New Delhi","New Delhi",snow,90,z,0
+2017-06-14,"Joe Root","New Delhi","New Delhi",lawn,90,z,0
+2017-06-14,Ankit,Noida,UP,lawn,30,z,0
+2017-06-14,Ankit,Noida,UP,lawn,30,z,0
+2017-06-14,Ankit,Noida,UP,snow,20,z,0
+2017-06-14,Ankit,Noida,UP,lawn,30,z,0
+2017-06-14,Ankit,Noida,UP,lawn,30,z,0
+2017-06-14,Ankit,Noida,UP,snow,20,z,0
+2017-06-14,Ankit,Noida,UP,snow,20,z,0
+2017-06-14,Ankit,Noida,UP,snow,20,z,0
+2017-06-14,Ankit,Noida,UP,lawn,30,z,0
+2017-06-14,Ankit,Noida,UP,lawn,30,z,0
+2017-06-14,Ankit,Noida,UP,snow,10,z,0
+2017-06-15,Ankit,Noida,Up,snow,20,z,0
+2017-06-15,Ankit,Noida,Up,lawn,30,z,0
+2017-06-15,Ankit,Noida,UP,lawn,90,z,0
+2017-06-15,Ankit,Noida,UP,snow,90,z,0
+2017-06-15,"Tushar Goyal",Gzb,S,lawn,45,z,0
+2017-06-15,"Tushar Goyal","New Delhi","New Delhi",lawn,60,z,0
+2017-06-15,"Tushar Goyal",Gzb,S,lawn,45,z,0
+2017-06-15,Tushar,"New Delhi",Delhi,lawn,45,z,0
+2017-06-15,Ankit,Noida,UP,lawn,30,z,0
+2017-06-16,Ankit,Noida,UP,lawn,30,z,0
+2017-06-16,Ankit,Noida,Up,lawn,30,z,0
+2017-06-16,Ankit,Noida,Up,lawn,30,z,0
+2017-06-16,"Tushar Goyal",Noida,UP,lawn,30,z,1
+2017-06-16,"Sahil Bhardwaj",Noida,UP,lawn,30,z,0
+2017-06-16,Ankit,Noida,UP,lawn,30,z,0
+2017-06-16,Ankit,Noida,Up,lawn,30,z,0
+2017-06-16,Ankit,Noida,Up,lawn,30,z,0
+2017-06-16,Ankit,Noida,Up,lawn,30,z,0
+2017-06-16,"Sahil Bhardwaj","New Delhi",Delhi,lawn,30,z,0
+2017-06-16,Ankit,Noida,Up,lawn,30,z,0
+2017-06-16,Ankit,Noida,UP,lawn,30,z,0
+2017-06-16,Ankit,Noida,Up,lawn,30,z,0
+2017-06-16,Ankit,Noida,Up,lawn,30,z,0
+2017-06-16,Ankit,Noida,Up,lawn,30,z,0
+2017-06-16,"Sahil Bhardwaj","New Delhi",Delhi,lawn,30,z,0
+2017-06-16,"Tushar Goyal",Noida,UP,lawn,90,z,0
+2017-06-16,Ankit,Noida,Up,lawn,30,z,0
+2017-06-16,"Sahil Bhardwaj","New Delhi",Delhi,lawn,30,z,0
+2017-06-16,"Tushar Goyal",Noida,UP,lawn,45,z,4
+2017-06-16,"Tushar Goyal",Noida,UP,lawn,75,z,0
+2017-06-16,"Tushar Goyal",Noida,UP,lawn,45,z,5
+2017-06-16,"Sahil Bhardwaj",Noida,UP,lawn,90,z,0
+2017-06-16,"Sahil Bhardwaj",Noida,UP,lawn,75,z,0
+2017-06-16,"Tushar Goyal",Noida,UP,lawn,45,z,0
+2017-06-16,"Sahil Bhardwaj",Noida,UP,lawn,30,z,0
+2017-06-16,"Tushar Goyal",Noida,UP,lawn,45,z,0
+2017-06-16,"Tushar Goyal",Noida,UP,lawn,30,z,0
+2017-06-16,"Tushar Goyal",Noida,UP,lawn,30,z,0
+2017-06-16,"Tushar Goyal",Noida,UP,lawn,30,z,0
+2017-06-16,"Tushar Goyal",Noida,UP,lawn,30,z,0
+2017-06-16,"Tushar Goyal",Noida,UP,lawn,30,z,0
+2017-06-16,"Tushar Goyal",Noida,UP,lawn,115,z,0
+2017-06-16,"Tushar Goyal",Noida,UP,lawn,60,z,0
+2017-06-16,"Tushar Goyal",Noida,UP,lawn,75,z,0
+2017-06-16,"Tushar Goyal",Noida,UP,lawn,30,z,0
+2017-06-16,"Tushar Goyal",Noida,UP,lawn,45,z,0
+2017-06-16,"Tushar Goyal",Noida,UP,lawn,30,z,0
+2017-06-16,"Tushar Goyal",Noida,UP,lawn,60,z,0
+2017-06-16,"Tushar Goyal",Noida,UP,lawn,30,z,0
+2017-06-16,"Tushar Goyal",Noida,UP,lawn,30,z,0
+2017-06-16,"Tushar Goyal",Noida,UP,lawn,30,z,0
+2017-06-16,"Tushar Goyal",Noida,UP,lawn,30,z,0
+2017-06-16,"Tushar Goyal",Noida,UP,lawn,30,z,5
+2017-06-16,"Tushar Goyal",Noida,UP,lawn,30,z,0
+2017-06-16,Ankit,Noida,UP,lawn,60,z,0
+2017-06-16,"Tushar Goyal",Noida,UP,lawn,30,z,0
+2017-06-16,Ankit,Noida,UP,lawn,60,z,0
+2017-06-16,Ankit,Noida,UP,lawn,60,z,0
+2017-06-16,Ankit,Noida,UP,lawn,60,z,0
+2017-06-16,Ankit,Noida,UP,lawn,115,z,0
+2017-06-16,"Tushar Goyal",Noida,UP,lawn,90,z,0
+2017-06-16,"Tushar Goyal",Noida,UP,lawn,90,z,0
+2017-06-16,Ankit,Noida,Up,lawn,75,z,0
+2017-06-16,Ankit,Noida,UP,lawn,115,z,0
+2017-06-16,Ankit,Noida,Up,lawn,45,z,0
+2017-06-16,Ankit,Noida,Up,lawn,60,z,0
+2017-06-16,Ankit,Noida,Up,lawn,45,z,0

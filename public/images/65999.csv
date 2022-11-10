@@ -1,0 +1,58 @@
+
+first_name,total_price,order_date,city,state,service,workername,provider
+,10,2017-04-19,Noida,0,lawn,z,India
+,10,2017-04-20,Noida,0,snow,z,India
+shubhuu,10,2017-04-25,Noida,0,lawn,y,India
+shubhuuu,10,2017-04-28,NewDelhi,0,snow,a,India
+,10,2017-01-03,NewDelhi,0,snow,ramesh,India
+,10,2017-01-10,NewDelhi,0,snow,ramesh,India
+,100,2017-01-04,NewDelhi,0,snow,n,India
+,100,2017-05-08,NewDelhi,0,snow,m,India
+,10,2017-05-08,NewDelhi,0,snow,l,India
+,10,2017-01-24,Rohini,0,lawn,k,India
+,10,2017-05-08,NewDelhi,0,lawn,j,India
+,10,2017-05-08,Noida,0,snow,i,India
+,10,2017-05-08,NewDelhi,0,snow,o,India
+,10,2017-05-08,NewDelhi,0,snow,h,India
+,10,2017-05-09,noida,0,lawn,g,India
+,10,2017-05-09,noida,0,lawn,e,India
+,10,2017-05-10,noida,0,lawn,f,India
+,10,2017-05-10,noida,0,snow,laxmi,India
+Ankit,10,2017-05-10,Noida,UP,lawn,p,India
+"Sahil Bhardwaj",10,2017-05-15,"New Delhi",Delhi,snow,Ashok,India
+"Sahil Bhardwaj",10,2017-05-15,Noida,UP,snow,Ashok,India
+"Sahil Bhardwaj",10,2017-05-15,Noida,UP,snow,b,India
+Ankit,10,2017-05-16,Dwarka,"New Delhi",snow,c,India
+"Sahil Bhardwaj",10,2017-05-17,"New Delhi",Delhi,snow,d,India
+"Sahil Bhardwaj",10,2017-05-22,Noida,UP,snow,d,India
+Ankit,20,2017-05-26,Noida,UP,snow,z,India
+"Tushar Goyal",20,2017-05-30,Gzb,S,snow,z,India
+"Tushar Goyal",30,2017-05-30,Noida,"Uttar Prade",lawn,z,India
+"Sahil Bhardwaj",10,2017-05-30,Noida,UP,snow,z,India
+"Tushar Goyal",20,2017-05-30,Noida,"Uttar Prade",snow,z,India
+"Sahil Bhardwaj",10,2017-05-30,Noida,UP,snow,z,India
+"Sahil Bhardwaj",10,2017-05-30,Noida,UP,lawn,z,India
+Ankit,20,2017-05-30,Noida,UP,snow,z,India
+Ankit,10,2017-05-31,Noida,UP,snow,z,India
+Ankit,10,2017-05-31,Dwarka,"New Delhi",lawn,z,India
+Ankit,20,2017-05-31,Noida,UP,snow,z,India
+Ankit,10,2017-05-31,Noida,UP,lawn,z,India
+Ankit,10,2017-05-31,Noida,UP,snow,z,India
+Ankit,10,2017-05-31,Dwarka,"New Delhi",lawn,z,India
+Ankit,10,2017-05-31,Noida,UP,snow,z,India
+"Sahil Bhardwaj",10,2017-05-31,"New Delhi",Delhi,snow,z,India
+"Sahil Bhardwaj",10,2017-06-01,"New Delhi",Delhi,lawn,z,India
+Ankit,20,2017-06-01,Noida,UP,snow,z,India
+Ankit,30,2017-06-01,Noida,UP,lawn,z,India
+"Sahil Bhardwaj",10,2017-06-01,"New Delhi",Delhi,snow,z,India
+"Sahil Bhardwaj",10,2017-06-02,"New Delhi",Delhi,lawn,z,India
+"Sahil Bhardwaj",10,2017-06-02,Noida,UP,lawn,z,India
+"Sahil Bhardwaj",10,2017-06-02,"New Delhi",Delhi,lawn,z,India
+"Sahil Bhardwaj",10,2017-06-02,Noida,UP,snow,z,India
+"Sahil Bhardwaj",30,2017-06-09,Noida,UP,lawn,z,India
+"Sahil Bhardwaj",20,2017-06-13,"New Delhi",Delhi,snow,z,India
+"Sahil Bhardwaj",30,2017-06-13,"New Delhi",Delhi,lawn,z,India
+"Joe Root",90,2017-06-14,"New Delhi","New Delhi",lawn,z,India
+Ankit,20,2017-06-14,Noida,UP,snow,z,India
+Ankit,30,2017-06-14,Noida,UP,lawn,z,India
+Ankit,30,2017-06-14,Noida,UP,lawn,z,India

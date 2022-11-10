@@ -1,0 +1,48 @@
+Steps to Reproduce:
+1.Go to the application.
+2.Login with valid credential.
+3.Move cursor on Manager and click on Manage client.
+4.Click on Edit icon from Actions column of any client.
+5.Increase email text it crossed '40'(More than 40 in email text field).
+6.Click on submit button.
+7.Observe the edited client details.
+
+
+Actual Result:Email is getting removed from client details.
+Expected Result:Email should be edited.
+
+
+
+Comment:If we edit client name or any other field with combination of email text field in which we enter more than 40 text,then no fields is getting edit.All the data remains same.
+
+
+
+Email is not displaying in manage client if it's text limit is more than thirty.
+
+
+
+
+Error message for blank client name is not getting refresh even after enter the client name.
+
+
+Steps to reproduce:
+1.Go to the application.
+2.Login with valid credential.
+3.Move cursor on Manager and click on Add client.
+4.Click on submit button without any data.
+5.After getting message"Please enter client name" enter client name.
+6.Give invalid email id in Email text field.
+7.Click on submit button.
+8.Observe two messages.
+
+Actual Result:There is two message after follow these steps,one for client name and other for invalid Email id.
+Expected Result:Client name message should be removed.
+
+
+Pop-up size for Manager drop-down list(Add Client,Manage Client,Add Account,Manage Client) is getting changed.
+
+
+
+Steps to reproduce:
+1.Go to the application.
+2.Login with valid 
